@@ -1,0 +1,452 @@
+body
+{
+margin:2px;
+}
+.topper
+{
+font:Georgia, "Times New Roman", Times, serif;
+text-align:right;
+color:#000066;
+font-size: 18px;
+margin:0px;
+width:1348px;
+height:50px;	
+background-color: #999999;	
+
+}
+.logo
+{
+width:150;
+height:50px;
+float:left;
+
+}
+.admin
+{
+height:50px;
+width:100px;
+margin-left:1250px;
+}
+
+
+
+
+.adminlogin
+{
+background-color: #999999;
+width:100px;
+height:50px;
+font-style:italic;
+margin-bottom:2px;
+}
+.footer
+{
+color:#0033CC;
+text-align:right;
+width:1348px;
+height:50px;	
+background-color: #999999;
+}
+
+.outer
+{
+
+  background-image:url(../Dynamics_CRM_2011_Customization_Course_and_Exam_Preparation.jpg);
+  background-color:#333333;
+  border:#3300FF;
+  margin:0px;
+  width:1348px;
+  height:680px;
+}
+
+.left
+{
+height:600px;
+width:500px;
+float:left;
+}
+
+.mid
+{
+margin-top:30px;
+margin-left:70px;
+background-color: #cccccc;
+height:500px;
+width:280;
+float:left;
+text-align:center;
+font:"Courier New", Courier, monospace;
+}
+
+.name
+{
+ height:50px;
+ width:200px;
+ margin-left:35px;
+}
+
+.sign
+{
+ background-color:#000099;
+ margin-left:4px;
+ height:35px;
+ width:220px;
+ color:#FFFFFF;
+}
+
+.sign a
+{text-decoration:none;
+}
+
+.create
+{
+text-align: center;
+border-bottom-style:ridge;
+background-color: #00CCCC;
+margin-left:35px;
+height:40px;
+width:220px;
+
+
+}
+
+.create a
+{
+
+ text-decoration:none;
+ color:#FFFFFF;
+}
+
+.outerlogindetail
+{
+background-color:#CCCCCC;
+font-style:italic;
+color: #000000;
+text-align:center;
+height:600px;
+width:1350px;
+	
+	
+}
+
+.logindetailcolum
+{
+background-color:#CCCCCC;
+
+color:#000000;
+text-align: center;
+
+height:45px;
+width:700px;
+margin-top:10px;
+margin-left:350px;
+text-align: center;
+}
+.columinside
+{
+background-color: #CCCCCC;
+height:38px;
+width:300px;
+float:left;
+margin-top:2px;
+
+}
+ .signup2
+ {background-color: #999999;
+ height:38px;
+ width:200px;
+ }
+ 
+ .sout
+ {
+ width:200px;
+ height:40px;
+ background-color: #999999;
+ font:Old English Text MT;
+ font-size: 24px;
+ }
+
+.outeruser
+{
+background-image: url(../2.jpg);
+ text-align:center;
+ font-size: 24px;
+ font-style:italic;
+  background-color: #0066CC;
+  border:#3300FF;
+  margin:0px;
+  width:1350px;
+  height:650px;
+}
+.miduser
+{
+margin-top:10px;
+margin-left:45px;
+margin-right:20px;
+height:300px;
+width:1250;
+float:left;
+text-align:center;
+font:"Courier New", Courier, monospace;
+}
+
+.topuser
+{
+
+ color: #000000;
+ font: Geneva, Arial, Helvetica, sans-serif;
+ font-style:italic;
+ font-size: 24px;
+ height:170px;
+ width:600px;
+ margin-top:0px;
+ margin-left:400px;
+ }
+
+.topusercontent
+{
+ 
+ height:20px;
+ width:500px;
+ margin-top:20px;
+ margin-left:40px;
+ text-align:center;
+ font-size:36px;
+ font-style:italic;
+ color:#036329;
+}
+
+
+.midusercontent
+{
+background-color:#FF9900;
+width:300px;
+height:40px;
+margin-top:50px;
+margin-left:90px;
+float:left;
+border-bottom-color:#000000;
+border-style:ridge;
+font-family:Geneva, Arial, Helvetica, sans-serif;
+font-size: 36px;
+color:#000000;
+}
+.midusercontent a
+{
+
+ text-decoration:none;
+}
+
+.outeruser1
+{
+background-image: url(../login.jpg);
+ text-align:center;
+ font-size: 24px;
+ font-style:italic;
+  background-color: #0066CC;
+  border:#3300FF;
+  margin:0px;
+  width:1350px;
+  height:650px;
+}
+.miduser1
+{
+margin-top:80px;
+margin-left:45px;
+margin-right:20px;
+height:300px;
+width:1250;
+float:left;
+text-align:center;
+font:"Courier New", Courier, monospace;
+}
+
+.topuser1
+{
+background-color:#FF0000;
+ color: #FFFFFF;
+ font: Geneva, Arial, Helvetica, sans-serif;
+ font-style:italic;
+ font-size: 24px;
+ height:120px;
+ width:600px;
+ margin-top:0px;
+ margin-left:400px;
+ }
+
+.topusercontent1
+{
+ 
+ height:20px;
+ width:500px;
+ margin-top:20px;
+ margin-left:40px;
+ text-align:center;
+ font-size:36px;
+ font-style:italic;
+ color: #FFFFFF;
+}
+
+
+.midusercontent1
+{
+background-color: #FF0000;
+width:300px;
+height:40px;
+margin-top:80px;
+margin-left:90px;
+float:left;
+border-bottom-color:#000000;
+border-style:ridge;
+font-family:Geneva, Arial, Helvetica, sans-serif;
+font-size: 36px;
+color: #FF0000;
+}
+.midusercontent1 a
+{
+
+ text-decoration:none;
+ color:#FFFFFF;
+}
+
+.outeruser2
+{
+background-color: #CCCCCC;
+  
+  text-align:center;
+  font-size: 24px;
+  font-style:italic;
+  width:1350px;
+  height:700px;
+}
+.miduser2
+{
+background-color:#CCCCCC;
+margin-top:40px;
+margin-left:500px;
+margin-right:20px;
+height:300px;
+width:400;
+float:left;
+text-align:center;
+font:"Courier New", Courier, monospace;
+}
+
+.topuser2
+{
+  background-color:#CCCCCC;
+ color: #003399;
+ font: Geneva, Arial, Helvetica, sans-serif;
+ font-style:italic;
+ font-size: 24px;
+ height:150px;
+ width:600px;
+ margin-left:400px;
+ }
+
+.topusercontent2
+{
+ 
+ height:20px;
+ width:500px;
+ margin-top:20px;
+ margin-left:40px;
+ text-align:center;
+ font-size:36px;
+ font-style:italic;
+ color: #000000;
+}
+
+.quemid
+{
+
+
+height:1400px;
+width:700px;
+margin-left:300px;
+margin-top:15px;
+
+
+}
+
+
+.midusercontent2
+{
+background-color:#999999;
+width:200px;
+height:40px;
+margin-top:30px;
+margin-left:90px;
+font-family:Arial, Helvetica, sans-serif;
+
+border-bottom-color:#000000;
+border-style:ridge;
+
+}
+.midusercontent2 a
+{
+
+ text-decoration:none;
+}
+ .qouter
+ {
+  
+  background-color: #CCCCCC;
+  border:#3300FF;
+  margin:0px;
+  width:1348px;
+  height:1450px;
+  }
+  .qsubmit
+  {
+    color: #CCCCCC;
+   text-align: center;
+    width:1348px;
+    height:50px;	
+    background-color: #CCCCCC;
+  
+  }
+  .resultdisplay
+  {
+  background-color: #33FFFF;
+  width:600px;
+  height:50px;
+  margin-top:5px;
+  margin-left:300px;
+  }
+  
+  .resultdisplay2
+  {
+  background-color: #CCCCCC;
+  width:100px;
+  height:50px;
+  margin-top:5px;
+  margin-left:10px;
+  float:left;
+  text-align:left;
+ 
+  }
+  
+  .resultdisplay21
+  {
+  background-color: #CCCCCC;
+  width:600px;
+  height:50px;
+  margin-top:5px;
+  margin-left:10px;
+  text-align:left;
+  }
+  
+  .resultdisplay23
+  {
+  background-color:#CCCCCC;
+  width:100px;
+  height:50px;
+  margin-top:5px;
+  margin-left:10px;
+  float:left;
+  text-align:left;
+ 
+  }
+  
+  }
